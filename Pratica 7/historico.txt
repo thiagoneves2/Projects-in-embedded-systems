@@ -1,0 +1,665 @@
+    1  sudo raspi-config
+    2  sudo passwd root
+    3  reboot
+    4  history
+    5  reboot
+    6  clear
+    7  python --version
+    8  python
+    9  nano pratica3.py
+   10  python pratica3.py
+   11  ls
+   12  python pratica3.py
+   13  nano pratica3.py
+   14  python pratica3.py
+   15  geany pratica3.py
+   16  pip --version
+   17  python3 -m pip install --user virtualenv
+   18  python3 -m venv 76
+   19  source 76/bin/activate
+   20  python
+   21  cd 76
+   22  pip freeze
+   23  pip3 install <>
+   24  pip3 install gpiozero
+   25  pip3 install RPi.GPIO
+   26  pip freeze
+   27  nano pratica3.py
+   28  python3 pratica3.py
+   29  nano pratica3.py
+   30  python pratica3.py
+   31  nano pratica3.py
+   32  pip freeze
+   33  nano pratica3.py
+   34  python pratica3.py
+   35  nano pratica3.py
+   36  python pratica3.py
+   37  nano pratica3.py
+   38  python pratica3.py
+   39  nano pratica3.py
+   40  python pratica3.py
+   41  ls
+   42  cd ../
+   43  deactivate
+   44  ls
+   45  clear
+   46  pinout
+   47  clear
+   48  sudo poweroff
+   49  python --version 
+   50  python
+   51  thonny
+   52  pip --version
+   53  python3 -m pip install --user virtualenv
+   54  python3 -m venv 4302
+   55  source 4302/bin/activate
+   56  python 
+   57  pip freeze
+   58  ls
+   59  cd 4302
+   60  pip3 install gpiozero
+   61  pip3 install RPi.GPIO
+   62  pip freeze
+   63  nano birilink.py
+   64  python birilink.py
+   65  nano birilink.py
+   66  python birilink.py
+   67  nano birilink2.py
+   68  python birilink2.py
+   69  history > histórico3.txt
+   70  ls
+   71  cat histórico3.txt
+   72  deactivate
+   73  python --version
+   74  thonny
+   75  clear
+   76  pip --version
+   77  pip freeze
+   78  python3 -m pip install --user virtualenv
+   79  python3 -m venv 3122
+   80  ls
+   81  source 3122/bin/activate
+   82  pip freeze
+   83  cd 3122
+   84  pip3 install gpiozero
+   85  pip3 install RPi.GPIO
+   86  pip freeze
+   87  thommy
+   88  thonny
+   89  nano LED3122.py
+   90  ls
+   91  python LED3122.py
+   92  nano LED3122.py
+   93  python LED3122.py
+   94  history > project3.txt
+   95  ls
+   96  nano LED3122.py
+   97  nano LEDnew.py
+   98  python LEDnew.py
+   99  nano LEDnew.py
+  100  python LEDnew.py
+  101  nano LEDnew.py
+  102  python LEDnew.py
+  103  nano LEDnew.py
+  104  python LEDnew.py
+  105  history > project3new.txt
+  106  cd 76
+  107  clear
+  108  cd ../
+  109  history
+  110  pinout 
+  111  cd 76
+  112  source 76/bin/activate
+  113  cd ../
+  114  source 76/bin/activate
+  115  cd 76
+  116  hpython pratica3.py
+  117  python pratica3.py
+  118  nano pratica3.py
+  119  nano button.py
+  120  python button.py
+  121  nano button.py
+  122  python button.py
+  123  nano button.py
+  124  python button.py
+  125  nano button.py
+  126  python button.py
+  127  nano button.py
+  128  python button.py
+  129  nano button.py
+  130  python button.py
+  131  nano button.py
+  132  python button.py
+  133  nano button.py
+  134  python button.py
+  135  nano button.py
+  136  python button.py
+  137  nano button.py
+  138  python button.py
+  139  nano button.py
+  140  python button.py
+  141  nano button.py
+  142  python button.py
+  143  clear
+  144  nano contagem.py
+  145  python contagem.py
+  146  nano contagem.py
+  147  python contagem.py
+  148  nano contagem.py
+  149  python contagem.py
+  150  nano contagem.py
+  151  python contagem.py
+  152  nano contagem.py
+  153  python contagem.py
+  154  nano contagem.py
+  155  python contagem.py
+  156  nano contagem.py
+  157  python contagem.py
+  158  nano contagem.py
+  159  nano contagem.py
+  160  python contagem.py
+  161  history > historico.txt
+  162  clear
+  163  deactivate
+  164  cd ../
+  165  history
+  166  sudo poweroff
+  167  ls
+  168  cd 4302
+  169  ls
+  170  nano birilink2.pý
+  171  ls
+  172  cat birilink.py
+  173  cat birilink2.py
+  174  source 4302/bin/activate
+  175  cd ~
+  176  source 4302/bin/activate
+  177  cd 4302
+  178  python3 birilink.py
+  179  python3 birilink2.py
+  180  python3 birilink.py
+  181  nano bórrda.py
+  182  cat bórrda.py
+  183  nano bórrda.py
+  184  cat bórrda.py
+  185  touch Liz.txt
+  186  ls
+  187  python3 birilink2.py
+  188  nano bórrda.py
+  189  cat bórrda.py
+  190  source 4302/bin/activate
+  191  cd 4302
+  192  cat bórrda.py
+  193  nano bórrda.py
+  194  python3 bórrda.py
+  195  nano bórrda.py
+  196  python3 bórrda.py
+  197  nano bórrda.py
+  198  python3 bórrda.py
+  199  nano bórrrrda.py
+  200  cat bórrda.py
+  201  nano bórrrrda.py
+  202  cat birilink2.py
+  203  nano bórrrrda.py
+  204  python3 bórrrrda.py
+  205  nano bórrrrda.py
+  206  python3 bórrrrda.py
+  207  nano bórrrrda.py
+  208  python3 bórrrrda.py
+  209  nano bórrrrda.py
+  210  python3 bórrrrda.py
+  211  cat bórrda.py
+  212  deactivate
+  213  nano LEDnew.py
+  214  nano LED3122.py
+  215  cd 3122
+  216  thonny botao3122.py
+  217  nano LEDnew.py
+  218  thonny botao3122.py
+  219  pinout
+  220  cd 76
+  221  cat pratica3.py
+  222  pinout
+  223  pinout
+  224  cd 76
+  225  nano pratica4.py
+  226  python pratica4.py
+  227  nano pratica4.py
+  228  python pratica4.py
+  229  nano pratica4.py
+  230  python pratica4.py
+  231  nano pratica4.py
+  232  python pratica4.py
+  233  pip3 install RPi.GPIO --upgrade
+  234  python pratica4.py
+  235  nano pratica4.py
+  236  python pratica4.py
+  237  nano pratica4.py
+  238  python pratica4.py
+  239  nano pratica4.py
+  240  python pratica4.py
+  241  nano pratica4.py
+  242  python pratica4.py
+  243  nano pratica4.py
+  244  python pratica4.py
+  245  pinout 
+  246  nano sensorinfra.py
+  247  python sensorinfra.py
+  248  nano sensorinfra.py
+  249  python sensorinfra.py
+  250  nano sensorinfra.py
+  251  python sensorinfra.py
+  252  nano sensorinfra.py
+  253  python sensorinfra.py
+  254  nano sensorinfra.py
+  255  python sensorinfra.py
+  256  nano sensorinfra.py
+  257  python sensorinfra.py
+  258  nano sensorinfra.py
+  259  python sensorinfra.py
+  260  nano sensorinfra.py
+  261  python sensorinfra.py
+  262  nano sensorinfra.py
+  263  python sensorinfra.py
+  264  nano sensorinfra.py
+  265  python sensorinfra.py
+  266  nano sensorinfra.py
+  267  python sensorinfra.py
+  268  nano sensorinfra.py
+  269  python sensorinfra.py
+  270  nano sensorinfra.py
+  271  python sensorinfra.py
+  272  nano sensorinfra.py
+  273  python sensorinfra.py
+  274  nano sensorinfra.py
+  275  python sensorinfra.py
+  276  nano sensorinfra.py
+  277  python sensorinfra.py
+  278  nano sensorinfra.py
+  279  python sensorinfra.py
+  280  pinout
+  281  nano sensorinfra.py
+  282  python sensorinfra.py
+  283  history
+  284  cd 76
+  285  python sensorinfra.py
+  286  nano sensorinfra.py
+  287  python sensorinfra.py
+  288  nano sensorinfra.py
+  289  python sensorinfra.py
+  290  source 4302/bin/activate
+  291  ls
+  292  cd 4302
+  293  touch pwm.py
+  294  nano pwm.py
+  295  source 4302/bin/activate
+  296  ls
+  297  cd 4302
+  298  ls
+  299  nano birilink2.py
+  300  python birilink2.py
+  301  nano pwm.py
+  302  python pwm.py
+  303  touch semsinhor.py
+  304  nano semsinhor.py
+  305  python semsinhor.py
+  306  nano semsinhor.py
+  307  python semsinhor.py
+  308  nano semsinhor.py
+  309  python semsinhor.py
+  310  nano semsinhor.py
+  311  python semsinhor.py
+  312  nano semsinhor.py
+  313  python semsinhor.py
+  314  nano semsinhor.py
+  315  python semsinhor.py
+  316  nano semsinhor.py
+  317  python semsinhor.py
+  318  nano semsinhor.py
+  319  python semsinhor.py
+  320  nano semsinhor.py
+  321  python semsinhor.py
+  322  nano semsinhor.py
+  323  python semsinhor.py
+  324  nano semsinhor.py
+  325  python semsinhor.py
+  326  python pwm.py
+  327  nano semsinhor.py
+  328  nano pwm.py
+  329  python 3 -m venv 3122_PRATICA4
+  330  python3 -m venv 3122_PRATICA4
+  331  source 3122_PRATICA4/bin/activate
+  332  ls
+  333  pip3 install gpiozero
+  334  pip3 install RPi.GPIO
+  335  pip freeze
+  336  nano pratica_4_led.py
+  337  python pratica_4_led.py
+  338  nano pratica_4_led.py
+  339  python pratica_4_led.py
+  340  nano pratica_4_led.py
+  341  python pratica_4_led.py
+  342  nano pratica_4_led.py
+  343  python pratica_4_led.py
+  344  nano pratica_4_led.py
+  345  python pratica_4_led.py
+  346  nano pratica_4_led.py
+  347  python pratica_4_led.py
+  348  nano pratica_4_led.py
+  349  python pratica_4_led.py
+  350  nano pratica_4_led.py
+  351  python pratica_4_led.py
+  352  nano pratica_4_led.py
+  353  python pratica_4_led.py
+  354  nano pratica_4_led.py
+  355  python pratica_4_led.py
+  356  nano pratica_4_led.py
+  357  python pratica_4_led.py
+  358  nano pratica_4_led.py
+  359  python pratica_4_led.py
+  360  nano pratica_4_led.py
+  361  python pratica_4_led.py
+  362  nano pratica_4_led.py
+  363  python pratica_4_led.py
+  364  nano pratica_4_led.py
+  365  python pratica_4_led.py
+  366  nano pratica_4_led.py
+  367  python pratica_4_led.py
+  368  nano pratica_4_led.py
+  369  python pratica_4_led.py
+  370  nano pratica_4_led.py
+  371  python pratica_4_led.py
+  372  nano pratica_4_led.py
+  373  python pratica_4_led.py
+  374  nano pratica_4_led.py
+  375  python pratica_4_led.py
+  376  nano pratica_4_led.py
+  377  python pratica_4_led.py
+  378  nano pratica_4_led.py
+  379  python pratica_4_led.py
+  380  nano pratica_4_led.py
+  381  pinout
+  382  cd 76
+  383  nano distance.py
+  384  python distance.py
+  385  nano distance.py
+  386  python distance.py
+  387  nano distance.py
+  388  python distance.py
+  389  nano distance.py
+  390  nano distanceLED.py
+  391  python distanceLED.py
+  392  nano distanceLED.py
+  393  python distanceLED.py
+  394  nano distanceLED.py
+  395  pinout 
+  396  python distanceLED.py
+  397  history
+  398  thony testeApagar.py
+  399  sudo poweroff
+  400  oi
+  401  ls
+  402  cd 4302
+  403  ls
+  404  nano Liz.txt
+  405  cat Liz.txt
+  406  echo
+  407  echo MINHOCAAAAAS
+  408  cat Liz.txt
+  409  nano Liz.txt
+  410  cat Liz.txt
+  411  nano Liz.txt
+  412  cat Liz.txt
+  413  sudo i2cdetect -y 1
+  414  cat Liz.txt
+  415  sudo raspconfig
+  416  sudo raspi-config
+  417  sudo i2cdetect -y 1
+  418  source 4302/bin/activate
+  419  cd ~
+  420  source 4302/bin/activate
+  421  cd 4302
+  422  touch I2C.py
+  423  nano I2C.py
+  424  python I2C.py
+  425  deactivate
+  426  python I2C.py
+  427  python3 -m venv 3122_pt5
+  428  source 3122_pt5/bin/activate
+  429  pip3 install gpiozero
+  430  pip3 install RPi.GPIO
+  431  sudo i2cdetect -y 1
+  432  nano pt5.py
+  433  sudo raspi-config
+  434  nano pt5.py
+  435  python3 pt5.py
+  436  pip3 install SMBus
+  437  python3 pt5.py
+  438  nano pt5.py
+  439  python3 pt5.py
+  440  ls
+  441  cd 4302
+  442  ls
+  443  cat I2C.py
+  444  nano I2C.py
+  445  touch I2C2.py
+  446  nano I2C2.py
+  447  python I2C2.py
+  448  python
+  449  ls
+  450  cd 3122_pt5
+  451  ls
+  452  nano poteciometro.py
+  453  ls
+  454  nano pratica5potenciometro
+  455  nano pratica5potenciometro.py
+  456  cd 76/PRATICA_5
+  457  clear
+  458  nano pratica5.py
+  459  thonny pratica5.py
+  460  python pratica5.py
+  461  nano pratica5.py
+  462  python pratica5.py
+  463  nano pratica5.py
+  464  python pratica5.py
+  465  nano pratica5.py
+  466  python pratica5.py
+  467  clear
+  468  cd 4302
+  469  python birilhomaster.py
+  470  nano birilhomaster.py
+  471  python birilhomaster.py
+  472  nano birilhomaster.py
+  473  python birilhomaster.py
+  474  nano birilhomaster.py
+  475  python birilhomaster.py
+  476  ls
+  477  cd 76
+  478  mkdir pratica6
+  479  cd pratica6
+  480  sudo raspi-config 
+  481  pip3 install mfrc522
+  482  nano writeRFID.py
+  483  thonny writeRFID.py
+  484  python writeRFID.py
+  485  nano writeRFID.py
+  486  python writeRFID.py
+  487  nano writeRFID.py
+  488  python writeRFID.py
+  489  nano writeRFID.py
+  490  python writeRFID.py
+  491  nano RFIDAccess.py
+  492  python writeRFID.py
+  493  clear
+  494  python RFIDAccess.py
+  495  clear
+  496  libcamera-hello
+  497  pip install opencv-pyhton
+  498  pip install opencv-python
+  499  pip install picamera2
+  500  cd 4302
+  501  touch bizoio.py
+  502  nano bizoio.py
+  503  python bizoio.py
+  504  raspi-config
+  505  sudo raspi-config
+  506  libcamera-hello
+  507  sudo raspi-config
+  508  libcamera-hello
+  509  python bizoio.py
+  510  cd 4302
+  511  python bizoio.py
+  512  sudo raspi-config
+  513  pip3 install mfrc522
+  514  nano rfid
+  515  python rfid.py
+  516  nano rfid
+  517  python rfid.py
+  518  nano rfid.py
+  519  python rfid.py
+  520  nano rfid.py
+  521  python rfid.py
+  522  nano rfidleitor.py
+  523  python rfidleitor.py
+  524  nano rfidleitor.py
+  525  nano rfidfinal
+  526  nano rfidfinal.py
+  527  python rfidfinal.py
+  528  nano rfidfinal.py
+  529  python rfidfinal.py
+  530  nano rfidfinal.py
+  531  python rfidfinal.py
+  532  nano rfidfinal.py
+  533  python rfidfinal.py
+  534  nano rfidfinal.py
+  535  python rfidfinal.py
+  536  nano rfidfinal.py
+  537  python rfidfinal.py
+  538  nano rfidfinal.py
+  539  nano rfidacesso.py
+  540  python rfidacesso.py
+  541  nano rfidacesso.py
+  542  python rfidacesso.py
+  543  nano rfidacesso.py
+  544  python rfidacesso.py
+  545  nano rfidacesso.py
+  546  python rfidacesso.py
+  547  nano rfidacesso.py
+  548  python rfidacesso.py
+  549  nano rfidacesso.py
+  550  nano rfid3.py
+  551  python rfid3.py
+  552  nano rfid3.py
+  553  python rfid3.py
+  554  nano rfid3.py
+  555  python rfid3.py
+  556  nano rfid3.py
+  557  python rfid3.py
+  558  nano rfid3.py
+  559  python rfid3.py
+  560  nano rfid3.py
+  561  nano rfid4.py
+  562  python rfid4.py
+  563  pinout
+  564  python rfid4.py
+  565  ls
+  566  cd 76
+  567  git clone [200~https://github.com/thiagoneves2/Projects-in-embedded-systems.git~
+  568  git clone https://github.com/thiagoneves2/Projects-in-embedded-systems.git
+  569  cd Projects-in-embedded-systems
+  570  ls
+  571  mkdir 'VI Project'
+  572  git status
+  573  ls
+  574  cd 'VI Project'
+  575  cls
+  576  clear
+  577  touch RFID.
+  578  ls
+  579  rm RFID.
+  580  nano README.md
+  581  git status
+  582  cd ../
+  583  git status
+  584  git add .
+  585  git status
+  586  git commit -m "Creation of VI Project"
+  587  git config user.email "thiagoantonio.neves@usp.br"
+  588  git config user.name "Thiago Neves"
+  589  git commit -m "Creation of VI Project"
+  590  git push
+  591  git status
+  592  git config --global user.name "Cleiton Rasta"
+  593  git config --global user.email "RogerinPikadeFoice"
+  594  cd ../
+  595  rmdir Projects-in-embedded-systems
+  596  libcamera
+  597  libcamera-hello
+  598  cd 4302
+  599  ls
+  600  nano bizoio.py
+  601  cat bórrda.py
+  602  nano bizoio.py
+  603  python bizoio.py
+  604  nano bizoio.py
+  605  python bizoio.py
+  606  nano bizoio.py
+  607  python bizoio.py
+  608  nano bizoio.py
+  609  python bizoio.py
+  610  ls
+  611  nano bizoio.py
+  612  python bizoio.py
+  613  nano bizoio.py
+  614  python bizoio.py
+  615  nano bizoio.py
+  616  python bizoio.py
+  617  nano bizoio.py
+  618  python bizoio.py
+  619  nano bizoio.py
+  620  python bizoio.py
+  621  nano bizoio.py
+  622  python bizoio.py
+  623  nano bizoio.py
+  624  python bizoio.py
+  625  libcamera-hello
+  626  git clone https://github.com/opencv/opencv.git
+  627  nano opencv2
+  628  nano pisca.sh
+  629  chmod +x ./pisca.sh
+  630  pisca.sh
+  631  ./pisca.sh
+  632  chmod +x ./pisca.sh
+  633  ./pisca.sh
+  634  nano pisca.sh
+  635  nano pisca.service
+  636  sudo cp pisca.service /lib/systemd/system/
+  637  ls /lib/systemd/system/
+  638  sudo systemct1 start pisca.service
+  639  sudo systemctl start pisca.service
+  640  sudo systemctl stop pisca.service
+  641  sudo systemctl enable pisca.service
+  642  history pisca7.txt
+  643  history 200  pisca7.txt
+  644  history 200
+  645  history 17
+  646  history 19
+  647  history 21
+  648  nano CadastroRFID.py
+  649  sudo systemctl disable pisca.service
+  650  clear
+  651  nano CadastroRFID.py
+  652  python3 CadastroRFID.py
+  653  nano CadastroRFID.py
+  654  python3 CadastroRFID.py
+  655  nano CadastroRFID.py
+  656  python3 CadastroRFID.py
+  657  nano CadastroRFID.py
+  658  python3 CadastroRFID.py
+  659  nano CadastroRFID.py
+  660  python3 CadastroRFID.py
+  661  cd 76
+  662  cd pratica7
+  663  clear
+  664  history
+  665  history > historico.txt
